@@ -5,7 +5,19 @@ A production-ready Bayesian analytics system for marketing campaign performance 
 The project processes marketing campaign data, performs SQL-based analytics, estimates campaign effectiveness using Bayesian inference, and visualizes uncertainty-aware business insights through an interactive dashboard.
 
 ---
+---
 
+# Dashboard Preview
+
+## Campaign Effectiveness Dashboard
+
+![Dashboard Demo 1](demo1.png)
+![Dashboard Demo 1_1](demo1_1.png)
+---
+
+## Bayesian Uncertainty Analysis
+
+![Dashboard Demo 2](demo2.png)
 # Features
 
 - Marketing campaign ETL pipeline
