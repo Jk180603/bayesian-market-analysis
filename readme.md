@@ -11,13 +11,13 @@ The project processes marketing campaign data, performs SQL-based analytics, est
 
 ## Campaign Effectiveness Dashboard
 
-![Dashboard Demo 1](demo1.png)
+![Dashboard Demo 1](demo_1.png)
 ![Dashboard Demo 1_1](demo1_1.png)
 ---
 
 ## Bayesian Uncertainty Analysis
 
-![Dashboard Demo 2](demo2.png)
+![Dashboard Demo 2](demo_2.png)
 # Features
 
 - Marketing campaign ETL pipeline
