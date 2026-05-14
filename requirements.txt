@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+pymc
+arviz
+streamlit
+sqlalchemy
+psycopg2-binary
+python-dotenv

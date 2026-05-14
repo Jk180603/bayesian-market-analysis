@@ -1,0 +1,11 @@
+venv/
+env/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+*.log
+.streamlit/
+.pytest_cache/
